@@ -9,6 +9,12 @@ def registrar_estudiante(nombre):
     estudiantes.append(nombre)
     print("Estudiante registrado:", nombre)
 
+def calcular_promedios:
+	for i in 3:
+		valor = print(input("Dame la calificacion ",i))
+		suma = suma + valor
+	print("El promedio es: " suma/3)
+
 registrar_estudiante("Juan Pérez")
 registrar_estudiante("María López")
 
@@ -20,3 +26,6 @@ for estudiante in estudiantes:
     print("ESTUDIANTES REGISTRADOS")
     for estudiante in estudiantes:
         print(estudiante)
+
+
+print("Calcular promedios: ")
